@@ -1,6 +1,0 @@
-devel_space: /home/rob498/thirdparty/vio_ws/devel
-install: false
-install_space: /home/rob498/thirdparty/vio_ws/install
-profile: default
-source_space: /home/rob498/thirdparty/vio_ws/src
-workspace: /home/rob498/thirdparty/vio_ws

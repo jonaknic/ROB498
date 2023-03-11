@@ -1,1 +1,0 @@
-/home/rob498/thirdparty/vio_ws/devel/.private/px4_realsense_bridge/share/px4_realsense_bridge/cmake/px4_realsense_bridgeConfig-version.cmake

@@ -49,7 +49,7 @@ class challenge2:
         self.arming_client.call(self.arm_cmd)
         
         launch_set_mode = SetModeRequest()
-        launch_set_mode.custom_mode = 'AUTO.LOITER'
+        launch_set_mode.custom_mode = 'OFFBOARD'
 
         goal_pose = PoseStamped()
 
